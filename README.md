@@ -1,0 +1,2 @@
+# claude
+Claude - SewConnect Build
